@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\AssistedProject\AP25\AP25\obj\Debug\AP25.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\AssistedProject\AP25\AP25\obj\Debug\AP25.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\AssistedProject\AP25\AP25\obj\Debug\AP25.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\AssistedProject\AP25\AP25\bin\Debug\AP25.exe.config
+C:\Users\moham\source\repos\AssistedProject\AP25\AP25\bin\Debug\AP25.exe
+C:\Users\moham\source\repos\AssistedProject\AP25\AP25\bin\Debug\AP25.pdb
+C:\Users\moham\source\repos\AssistedProject\AP25\AP25\obj\Debug\AP25.exe
+C:\Users\moham\source\repos\AssistedProject\AP25\AP25\obj\Debug\AP25.pdb
